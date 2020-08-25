@@ -19,5 +19,13 @@ public class SeleniumTest {
 		System.out.println("seleniumTestCase4");
 		System.out.println("seleniumTestCase1111");
 	}
+	
+	@Test
+	public void seleniumTestCase3(){
+		System.out.println("seleniumTestCase23");
+		System.out.println("seleniumTestCase33");
+		System.out.println("seleniumTestCase43");
+		System.out.println("seleniumTestCase11131");
+	}
 
 }
