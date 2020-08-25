@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28" started-at="2020-06-30T19:06:11 PDT" finished-at="2020-06-30T19:06:11 PDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="28" started-at="2020-06-30T19:06:11 PDT" finished-at="2020-06-30T19:06:11 PDT">
+      <class name="MavenProjects.MavenJavaProjects.RestAPITest">
+        <test-method status="PASS" signature="RestAPITestCase2()[pri:0, instance:MavenProjects.MavenJavaProjects.RestAPITest@5d76b067]" name="RestAPITestCase2" duration-ms="2" started-at="2020-06-30T19:06:11 PDT" finished-at="2020-06-30T19:06:11 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPITestCase2 -->
+        <test-method status="PASS" signature="restAPITestCase1()[pri:0, instance:MavenProjects.MavenJavaProjects.RestAPITest@5d76b067]" name="restAPITestCase1" duration-ms="0" started-at="2020-06-30T19:06:11 PDT" finished-at="2020-06-30T19:06:11 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restAPITestCase1 -->
+      </class> <!-- MavenProjects.MavenJavaProjects.RestAPITest -->
+      <class name="MavenProjects.MavenJavaProjects.SeleniumTest">
+        <test-method status="PASS" signature="seleniumTestCase1()[pri:0, instance:MavenProjects.MavenJavaProjects.SeleniumTest@2a17b7b6]" name="seleniumTestCase1" duration-ms="0" started-at="2020-06-30T19:06:11 PDT" finished-at="2020-06-30T19:06:11 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumTestCase1 -->
+        <test-method status="PASS" signature="seleniumTestCase2()[pri:0, instance:MavenProjects.MavenJavaProjects.SeleniumTest@2a17b7b6]" name="seleniumTestCase2" duration-ms="0" started-at="2020-06-30T19:06:11 PDT" finished-at="2020-06-30T19:06:11 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumTestCase2 -->
+      </class> <!-- MavenProjects.MavenJavaProjects.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
