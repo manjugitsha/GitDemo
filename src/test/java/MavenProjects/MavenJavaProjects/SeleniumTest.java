@@ -12,6 +12,8 @@ public class SeleniumTest {
 	@Test
 	public void seleniumTestCase2(){
 		System.out.println("seleniumTestCase2");
+		System.out.println("seleniumTestCase3");
+		System.out.println("seleniumTestCase4");
 	}
 
 }
